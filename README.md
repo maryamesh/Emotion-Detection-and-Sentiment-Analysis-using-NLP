@@ -18,6 +18,10 @@ This project focuses on emotion detection and sentiment analysis using Natural L
 - Text: "I feel like I am still looking at a blank canvas, blank pieces of paper."
 - Emotion: Sadness
 
+## Code and Documentation
+
+- The full code, along with detailed explanations and outputs, is available in the `main.ipynb` file.
+
 ## Acknowledgements
 
 - Special thanks to Elvis [LinkedIn](https://lnkd.in/eXJ8QVB) and the Hugging Face team.
